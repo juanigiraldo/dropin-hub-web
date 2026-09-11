@@ -1,0 +1,62 @@
+{
+  "hero-motion": {
+    "webp": "assets/img/hero-motion.webp",
+    "jpg": "assets/img/hero-motion.jpg",
+    "width": 1672,
+    "height": 941
+  },
+  "manifesto-snow": {
+    "webp": "assets/img/manifesto-snow.webp",
+    "jpg": "assets/img/manifesto-snow.jpg",
+    "width": 2240,
+    "height": 2800
+  },
+  "manifesto-mountain": {
+    "webp": "assets/img/manifesto-mountain.webp",
+    "jpg": "assets/img/manifesto-mountain.jpg",
+    "width": 1572,
+    "height": 2800
+  },
+  "services-fridge": {
+    "webp": "assets/img/services-fridge.webp",
+    "jpg": "assets/img/services-fridge.jpg",
+    "width": 828,
+    "height": 1095
+  },
+  "strategy-main": {
+    "webp": "assets/img/strategy-main.webp",
+    "jpg": "assets/img/strategy-main.jpg",
+    "width": 800,
+    "height": 1200
+  },
+  "strategy-moto": {
+    "webp": "assets/img/strategy-moto.webp",
+    "jpg": "assets/img/strategy-moto.jpg",
+    "width": 736,
+    "height": 920
+  },
+  "identity-main": {
+    "webp": "assets/img/identity-main.webp",
+    "jpg": "assets/img/identity-main.jpg",
+    "width": 1200,
+    "height": 1594
+  },
+  "identity-detail": {
+    "webp": "assets/img/identity-detail.webp",
+    "jpg": "assets/img/identity-detail.jpg",
+    "width": 1080,
+    "height": 1341
+  },
+  "activation-main": {
+    "webp": "assets/img/activation-main.webp",
+    "jpg": "assets/img/activation-main.jpg",
+    "width": 736,
+    "height": 1104
+  },
+  "activation-motion": {
+    "webp": "assets/img/activation-motion.webp",
+    "jpg": "assets/img/activation-motion.jpg",
+    "width": 496,
+    "height": 620
+  }
+}
